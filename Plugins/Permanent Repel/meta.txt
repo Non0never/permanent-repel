@@ -1,0 +1,4 @@
+Name         = Permanent Repel System
+Version      = 1.0.1
+Essentials = 21.1,21.99,22
+Credits      = Nononever, 4AllNighterGrinder64

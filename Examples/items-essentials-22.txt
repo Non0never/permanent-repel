@@ -1,0 +1,8 @@
+[REPELCHARM]
+Name = Repel Charm
+NamePlural = Repel Charms
+Pocket = KeyItems
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Toggles wild Pokémon encounters on and off.
